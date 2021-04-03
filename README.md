@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a Software Engineer and AR/VR enthusiast, currently working on becoming more proficient in Back End Development.
 <!--
 **CodingVenus/CodingVenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
