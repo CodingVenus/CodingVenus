@@ -1,8 +1,7 @@
-### Hi there 👋
+### Welcome to my GitHub 🙋🏾‍♀️
 
-My name is **Venus**. 
-
-I'm a Junior Software Engineer that loves problem solving and learning new skills 🤓 
+Here you will find small projects and code samples I have worked on. 
+I'm currently a Junior Software Engineer that loves problem solving and learning new skills 🤓 
 
 <!--
 **CodingVenus/CodingVenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
