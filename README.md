@@ -1,8 +1,10 @@
 ### Welcome to my GitHub 🙋🏾‍♀️
 
-Here you will find small projects and code samples I have worked on. 
+Here you will find projects and code samples I have worked on. 
 
 I'm currently a Junior Software Engineer that loves problem solving and learning new skills 🤓 
+
+### 👩🏾‍💻 **Open To Work** 👩🏾‍💻
 
 <!--
 **CodingVenus/CodingVenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
