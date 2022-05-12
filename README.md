@@ -2,7 +2,9 @@
 
 Here you will find projects and code samples I have worked on. 
 
-I'm currently a Junior Software Engineer that loves problem solving and learning new skills 🤓 
+I'm a Junior Software Engineer, with an interest in AR/VR and Mobile Development, that loves problem solving and learning new skills 🤓 
+
+
 
 ### 👩🏾‍💻 **Open To Work** 👩🏾‍💻
 
