@@ -2,7 +2,7 @@
 
 Here you will find projects and code samples I have worked on. 
 
-I'm a Junior Software Engineer, with an interest in AR/VR and Mobile Development, that loves problem solving and learning new skills 🤓 
+I'm a Full Stack / Java Software Engineer, with an interest in AR/VR and Mobile Development, that loves problem solving and learning new skills 🤓 
 
 
 
