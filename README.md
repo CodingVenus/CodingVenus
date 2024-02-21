@@ -1,14 +1,13 @@
-### Welcome to my GitHub 🙋🏾‍♀️
+### Hi there! Welcome to my GitHub 🙋🏾‍♀️
 
-Here you will find projects and code samples I have worked on. 
-<!--
+<!-- Here you will find projects and code samples I have worked on. -->
+
 I'm a Full Stack / Java Software Engineer, with an interest in AR/VR and Mobile Development, who loves problem solving and learning new skills 🤓 
-
 
 
 ### 👩🏾‍💻 **Open To Work** 👩🏾‍💻
 
-
+<!--
 **CodingVenus/CodingVenus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
